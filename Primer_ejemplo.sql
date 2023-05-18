@@ -64,3 +64,4 @@ UPDATE animales set estado='triste' where id=2;
 -- Esto también arroja error 1175
 SELECT * FROM animales;
 
+drop table animales;
